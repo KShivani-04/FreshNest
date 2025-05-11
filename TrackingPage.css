@@ -1,0 +1,28 @@
+.tracking-page {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.tracking-page input {
+  padding: 8px;
+  width: 70%;
+  margin-bottom: 10px;
+}
+
+.tracking-page button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.tracking-result {
+  margin-top: 20px;
+  background-color: #f0f9ff;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
